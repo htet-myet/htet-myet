@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htet-myet
 - 👀 I’m interested in font end developement.
-- 🌱 I’m currently learning css.
+- 🌱 I’m currently learning Java Script.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
